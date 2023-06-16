@@ -11,7 +11,7 @@ namespace ThinkBridgeUpdated.Models
     public class MemberViewMode
     {
 
-        // Hello changes 
+        // Hello changes1 
         public int ProductId { get; set; }
         public string ProductName { get; set; }
         [DataType(DataType.Text)]
